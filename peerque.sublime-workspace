@@ -1,0 +1,2551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"align",
+				"alignContent"
+			],
+			[
+				"List",
+				"ListItem"
+			],
+			[
+				"Head",
+				"Heading"
+			],
+			[
+				"Tex",
+				"Text"
+			],
+			[
+				"lsp",
+				"\"LSP-eslint\""
+			],
+			[
+				"Set",
+				"Set"
+			],
+			[
+				"Link",
+				"Link"
+			],
+			[
+				"log",
+				"loginError"
+			],
+			[
+				"stin",
+				"String"
+			],
+			[
+				"script",
+				"<script> composition-js.vue ✌"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"round",
+				"rounded-full"
+			],
+			[
+				"minw",
+				"min-w-full"
+			],
+			[
+				"min-h-",
+				"min-h-max"
+			],
+			[
+				"gap",
+				"gap-4"
+			],
+			[
+				"grid-flo",
+				"grid-flow-col"
+			],
+			[
+				"p-",
+				"p-10"
+			],
+			[
+				"mb-",
+				"mb-4 "
+			],
+			[
+				"my",
+				"my-4 "
+			],
+			[
+				"m-x",
+				"mx-4 "
+			],
+			[
+				"extend",
+				"extendTheme"
+			],
+			[
+				"justif",
+				"justifyItems"
+			],
+			[
+				"alin",
+				"alignItems"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"useB",
+				"useBreakpointValue"
+			],
+			[
+				"gra",
+				"gray.300"
+			],
+			[
+				"He",
+				"Heading"
+			],
+			[
+				"Search",
+				"SearchIcon"
+			],
+			[
+				"useRadio",
+				"useRadioGroup"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"random",
+				"randomLayers"
+			],
+			[
+				"s",
+				"column-reverse"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"set",
+				"setURL"
+			],
+			[
+				"useRecoi",
+				"useRecoilState"
+			],
+			[
+				"create",
+				"createCard"
+			],
+			[
+				"white",
+				"whiteAlpha.800"
+			],
+			[
+				"layers",
+				"layersAtom"
+			],
+			[
+				"color",
+				"colorScheme"
+			],
+			[
+				"bla",
+				"blackAlpha.400"
+			],
+			[
+				"borderB",
+				"borderBottom"
+			],
+			[
+				"transitio",
+				"transitionDuration"
+			],
+			[
+				"Butto",
+				"Button"
+			],
+			[
+				"onC",
+				"onClick"
+			],
+			[
+				"tag",
+				"TagList"
+			],
+			[
+				"Random",
+				"randomTagList"
+			],
+			[
+				"grid",
+				"GridItem"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"fallb",
+				"fallbackSrc"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"Bo",
+				"Box"
+			],
+			[
+				"use",
+				"useContext"
+			],
+			[
+				"missing",
+				"missingFromStories"
+			],
+			[
+				"writeFi",
+				"writeFileSync"
+			],
+			[
+				"pa",
+				"paths"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"useColor",
+				"useColorModeValue"
+			],
+			[
+				"useColorMode",
+				"useColorModeValue"
+			],
+			[
+				"blackAlp",
+				"blackAlpha.900"
+			],
+			[
+				"useCol",
+				"useColorModeValue"
+			],
+			[
+				"useColorm",
+				"useColorModeValue"
+			],
+			[
+				"useColo",
+				"useColorModeValue"
+			],
+			[
+				"useCOlor",
+				"useColorModeValue"
+			],
+			[
+				"useColorM",
+				"useColorModeValue"
+			],
+			[
+				"or",
+				"orange.500"
+			],
+			[
+				"whit",
+				"whiteAlpha.900"
+			],
+			[
+				"cha",
+				"@chakra-ui/react"
+			],
+			[
+				"Accor",
+				"AccordionMenu"
+			],
+			[
+				"Nav",
+				"navigation"
+			],
+			[
+				"na",
+				"NavLink"
+			],
+			[
+				"Divid",
+				"Divider"
+			],
+			[
+				"Divider",
+				"Divider"
+			],
+			[
+				"vertical",
+				"verticalProps"
+			],
+			[
+				"fon",
+				"fontWeight"
+			],
+			[
+				"rando",
+				"randomTagList"
+			],
+			[
+				"Topics",
+				"Topics"
+			],
+			[
+				"pu",
+				"@/public/"
+			],
+			[
+				"Box",
+				"Box"
+			],
+			[
+				"Ima",
+				"ImageCard"
+			],
+			[
+				"html",
+				"htmlWidth"
+			],
+			[
+				"Comp",
+				"Compass"
+			],
+			[
+				"Ta",
+				"tags"
+			],
+			[
+				"Menu",
+				"MenuItem"
+			],
+			[
+				"MenuItem",
+				"MenuItem"
+			],
+			[
+				"import",
+				"import"
+			],
+			[
+				"Dra",
+				"Drawer"
+			],
+			[
+				"child",
+				"childWidth"
+			],
+			[
+				"Rando",
+				"randomHexColor"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"Custom",
+				"CustomTag"
+			],
+			[
+				"Avata",
+				"Avatar"
+			],
+			[
+				"Logo",
+				"LogoRole"
+			],
+			[
+				"Role",
+				"LogoRole"
+			],
+			[
+				"Tag",
+				"TagList"
+			],
+			[
+				"box",
+				"boxSize"
+			],
+			[
+				"Chev",
+				"ChevronRightIcon"
+			],
+			[
+				"IconB",
+				"IconButton"
+			],
+			[
+				"size",
+				"boxSize"
+			],
+			[
+				"MdArr",
+				"MdArrowBackIos"
+			],
+			[
+				"getRan",
+				"getRandomInt"
+			],
+			[
+				"start",
+				"startingHeight"
+			],
+			[
+				"Rig",
+				"ArrowRightIcon"
+			],
+			[
+				"Icon",
+				"IconButton"
+			],
+			[
+				"lorem",
+				"loremIpsum"
+			],
+			[
+				"spa",
+				"spacingVar"
+			],
+			[
+				"pr",
+				"props"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"cm",
+				"components"
+			],
+			[
+				"o",
+				"OCGrid"
+			],
+			[
+				"useLa",
+				"useLayoutEffect"
+			],
+			[
+				"useR",
+				"useRef"
+			],
+			[
+				"gridau",
+				"gridAutoRows"
+			],
+			[
+				"rows",
+				"gridTemplateRows"
+			],
+			[
+				"gridTem",
+				"gridTemplateColumns"
+			],
+			[
+				"rnadom",
+				"randomTagObject"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"co",
+				"const"
+			],
+			[
+				"just",
+				"justifyContent"
+			],
+			[
+				"usebre",
+				"useBreakpointValue"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"justi",
+				"justifyContent"
+			],
+			[
+				"ta",
+				"tags"
+			],
+			[
+				"opti",
+				"option"
+			],
+			[
+				"Selec",
+				"Select"
+			],
+			[
+				"gridTempla",
+				"gridTemplateAreas"
+			],
+			[
+				"NAVB",
+				"NAVBAR"
+			],
+			[
+				"useE",
+				"useEffect"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/db/schema.prisma",
+			"settings":
+			{
+				"buffer_size": 450,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++UpdatedBuild.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++UpdatedBuild.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++UpdatedBuild.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Flow/Flow.sublime-build",
+					""
+				],
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Flow/Flow.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Flow/Flow.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Node.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				"Clean"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/ShellScript/ShellScript.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build With DataFile"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				"Build With DataFile"
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build With Datafile Of The Same Name"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				"Build With Datafile Of The Same Name"
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build With Datafile of the same name"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build2"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					""
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/MiniZinc/MiniZinc.sublime-build",
+					"Check Syntax"
+				]
+			],
+			[
+				"Packages/MiniZinc/MiniZinc.sublime-build",
+				"Build"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Flow/Flow.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python 3/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python 3/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 270.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"eslint",
+				"Preferences: LSP-eslint Settings"
+			],
+			[
+				"typescr",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"disavle",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"enable lso",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"lsp",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"project",
+				"Project: Edit"
+			],
+			[
+				"typ",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"enable lsp",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"rene",
+				"Rename File"
+			],
+			[
+				"index",
+				"Help: Indexing Status"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"lsp forma",
+				"LSP: Format File"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"edit r",
+				"Project: Edit"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable paga",
+				"Package Control: Disable Package"
+			],
+			[
+				"list pag",
+				"Package Control: List Packages"
+			],
+			[
+				"file icons",
+				"Preferences: A File Icon Settings"
+			],
+			[
+				"lsp tailw",
+				"Preferences: LSP-tailwindcss Settings"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"vue",
+				"Preferences: LSP-vue Settings"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"open term",
+				"Terminal: Open"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"temrinal",
+				"Terminal: Open"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"build",
+				"Build With: Node"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"new build",
+				"Build: New Build System"
+			],
+			[
+				"manage sn",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"renae",
+				"Rename File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"iinset",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"emoi",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"insert emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"renme",
+				"Rename File"
+			],
+			[
+				"enalbe",
+				"Package Control: Enable Package"
+			],
+			[
+				"list paca",
+				"Package Control: List Packages"
+			],
+			[
+				"git ",
+				"git: diff"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"stage",
+				"git: quick stage"
+			],
+			[
+				"gitmoj",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"open",
+				"Open: Browse"
+			],
+			[
+				"stauts",
+				"git: status"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"type",
+				"LSP-typescript: Find Callers"
+			],
+			[
+				"alin",
+				"AlignTab"
+			],
+			[
+				"stats",
+				"git: status"
+			],
+			[
+				"jspr",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"lspfor",
+				"LSP: Format File"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"git",
+				"git: graph"
+			],
+			[
+				"git gran",
+				"git: branch"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"formatt",
+				"Formatter: Beautify With Prettier"
+			],
+			[
+				"jsp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"termni",
+				"Terminal: Open"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"set syntax scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"statu",
+				"git: status"
+			],
+			[
+				"granch",
+				"git: branch"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"git:",
+				"git: graph"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"STATUS",
+				"git: status"
+			],
+			[
+				"jsre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"ali",
+				"AlignTab"
+			],
+			[
+				"stash",
+				"git: stash apply"
+			],
+			[
+				"reset",
+				"git: reset"
+			],
+			[
+				"folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"new folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"jsore",
+				"JsPrettier: Format Code"
+			],
+			[
+				"aling",
+				"AlignTab"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"jsfo",
+				"JsPrettier: Format Code"
+			],
+			[
+				"format f",
+				"Formatter: Beautify With Prettier"
+			],
+			[
+				"new foldor",
+				"File: New Folder Relative to Current View"
+			],
+			[
+				"staus",
+				"git: status"
+			],
+			[
+				"gitm",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"lsp f",
+				"LSP: Format File"
+			],
+			[
+				"lsp format",
+				"LSP: Format File"
+			],
+			[
+				"lsp-type",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"Preferences: LSP-typescript Settings",
+				"Preferences: LSP-typescript Settings"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"diable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"packa remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"json vali",
+				"Pretty JSON: Validate"
+			],
+			[
+				"jsonva",
+				"Pretty JSON: Validate"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"gitsta",
+				"git: status"
+			],
+			[
+				"jsf",
+				"JsPrettier: Format Code"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jp",
+				"JsPrettier: Format Code"
+			],
+			[
+				"gitmo",
+				"Gitmoji: Insert emoji"
+			],
+			[
+				"lowercas",
+				"Convert Case: lowerCamelCase"
+			],
+			[
+				"git fe",
+				"git: fetch"
+			],
+			[
+				"jsc",
+				"JsPrettier: Format Code"
+			],
+			[
+				"git staus",
+				"git: status"
+			],
+			[
+				"open ter",
+				"Terminal: Open"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"heli",
+				"Helium: Settings"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"view.settings().get('font_face')",
+			"print(python_version())",
+			"from platform import python_version",
+			"from platform import python_version\n\nprint(python_version())",
+			"--version",
+			"python --version",
+			"sublime.log_commands (True)",
+			"a",
+			"clear",
+			"hi",
+			"CustomSave",
+			"custom_save",
+			"run",
+			"custom_save",
+			"CustomSave"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/web/src/layouts/BlogLayout/BlogLayout.js",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/web/src/pages/HomePage/HomePage.js",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/web/src/pages/AboutPage/AboutPage.js",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/peerque.sublime-project",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/README.md",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/api/db/schema.prisma",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/redwood/web/src/Routes.js",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/peerque/package.json",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/template/",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/template/package.json",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/webapp/package.json",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/tailwind.config.js",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/nuxt.config.ts",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/package.json",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/components/Toast.vue",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/composables/states.ts",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/components/Account.vue",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/app.vue",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/pages/index.vue",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/components/Auth.vue",
+		"/Users/matiasagelvis/Documents/CS/web/peerque/.env",
+		"/Users/matiasagelvis/.zshrc",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/package.json",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/themes/index.js",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/layout/components/navbar/linkMenu.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/post/list.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/post/principal.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/utils/palceholders.js",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/landing/imageCard.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/landing/compass.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/article/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/subnav/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/blog/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/landing/linkCard.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/subnav/search.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/.eslintrc.json",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/avatar.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/avatar.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/components/banner.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/role.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/subnav/ratioForm.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/pagination.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/subnav/ratioForm.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/subnav/search.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/subnav/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/filters/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/filters/search.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/filters/ratioForm.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/subnav.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/tags/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/.storybook/preview.js",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/.storybook/main.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/textInput.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/lib/avatara.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/utils/createCard.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/app.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/header.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/card.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/utils/applyLayers.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/README.md",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/cardHeader.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/back/common.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/utils/url.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/back/v2.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/utils/style.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/optionSelect.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/public/css/fonts.css",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/pages/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/pages/_app.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/footer.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/utils/store.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/lib/shapes.js",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/pages/_document.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/colorToggle.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/colorPicker.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/avatara/src/components/imageBox.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/carousel/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/logo.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/post/components/ocGrid.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/article/components/intro.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/article/components/topics.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/blog/topics/[tag].jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/topics/[tag].jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/filters/components/trend.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/shared/subscribe.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/post/list.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/components/article/components/body.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/blog/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories.js",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/blog/talents/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/blog/investors/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/blog/developers/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/pages/blog/entrepreneurs/index.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/pagination.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/components/body.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/components/intro.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/components/likeButton.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/article/components/topics.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/carousel/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/landing/compass.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/landing/imageCard.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/landing/linkCard.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/footer.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/accordionMenu.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/colorToggle.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/drawer.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/internationalization.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/linkMenu.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/menuToggle.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/navigation.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/layout/components/navbar/navLink.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/logo.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/role.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/subscribe.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/filters/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/text/fadeText.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/filters/components/topic.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/filters/components/trend.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/tags/components/tag.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/post/principal.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/post/components/ocGrid.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/post/components/readTime.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/tags/index.stories.jsx",
+		"/Users/matiasagelvis/Documents/CS/web/aliados/blog/stories/shared/subnav.stories.jsx"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/db/schema.prisma",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": "@\".",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-prisma"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///Users/matiasagelvis/Documents/CS/web/peerque/redwood/api/db/schema.prisma",
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"rainbow_checked": true,
+							"show_definitions": false,
+							"syncScroll": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/Plain Text (Prisma Scheme).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 120.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 120.0
+	},
+	"output.anaconda_documentation":
+	{
+		"height": 120.0
+	},
+	"output.diagnostics":
+	{
+		"height": 120.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 0.0
+	},
+	"output.languagetool":
+	{
+		"height": 120.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "",
+	"project": "peerque.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"routes",
+				"web/src/Routes.js"
+			],
+			[
+				"sear",
+				"components/shared/subnav/search.jsx"
+			],
+			[
+				"subsc",
+				"components/shared/subscribe.jsx"
+			],
+			[
+				"paginations",
+				"components/shared/pagination.jsx"
+			],
+			[
+				"paginatio",
+				"components/shared/pagination/index.jsx"
+			],
+			[
+				"",
+				"STATUS: blog"
+			],
+			[
+				"drawer",
+				"components/layout/components/navbar/drawer.jsx"
+			],
+			[
+				"like",
+				"components/article/components/likeButton.jsx"
+			],
+			[
+				"logo",
+				"components/shared/logo.jsx"
+			],
+			[
+				"navbar",
+				"components/layout/components/navbar/menuToggle.jsx"
+			],
+			[
+				"role",
+				"components/shared/role.jsx"
+			],
+			[
+				"subs",
+				"components/shared/subscribe.jsx"
+			],
+			[
+				"dara",
+				"~/Documents/Universidad/Programacion/Machine Learning/machine-learning-ex6/ex6/dataset3Params.m"
+			],
+			[
+				"ga",
+				"~/Documents/Universidad/Programacion/Machine Learning/machine-learning-ex6/ex6/gaussianKernel.m"
+			],
+			[
+				"fea",
+				"~/Documents/Universidad/Programacion/Machine Learning/machine-learning-ex1/ex1/featureNormalize.m"
+			],
+			[
+				"comp",
+				"compileClass.cpp"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"ca",
+				"subroutineCall.cpp"
+			],
+			[
+				"par",
+				"parameterList.cpp"
+			],
+			[
+				"para",
+				"parameterList.cpp"
+			],
+			[
+				"sub",
+				"subroutineDec.cpp"
+			],
+			[
+				"s",
+				"subroutineBody.cpp"
+			],
+			[
+				"term",
+				"term.cpp"
+			],
+			[
+				"ex",
+				"expression.cpp"
+			],
+			[
+				"exp",
+				"expressionList.cpp"
+			],
+			[
+				"ter",
+				"term.cpp"
+			],
+			[
+				"var",
+				"varDec.cpp"
+			],
+			[
+				"sym",
+				"SymbolTableHash.hpp"
+			],
+			[
+				"ma",
+				"main.cpp"
+			],
+			[
+				"if",
+				"ifStatement.cpp"
+			],
+			[
+				"le",
+				"letStatement.cpp"
+			],
+			[
+				"subtr",
+				"subroutineDec.cpp"
+			],
+			[
+				"com",
+				"compileClass.cpp"
+			],
+			[
+				"do",
+				"doStatement.cpp"
+			],
+			[
+				"sa",
+				"statements.cpp"
+			],
+			[
+				"clas",
+				"classVarDec.cpp"
+			],
+			[
+				"re",
+				"returnStatement.cpp"
+			],
+			[
+				"call",
+				"subroutineCall.cpp"
+			],
+			[
+				"to",
+				"~/Documents/Universidad/Programacion/nand2tetris/projects/10/Compiler/ToDo.txt"
+			],
+			[
+				"sib",
+				"subroutineCall.cpp"
+			],
+			[
+				"cle",
+				"clean.cpp"
+			],
+			[
+				"whi",
+				"whileStatement.cpp"
+			],
+			[
+				"un",
+				"unaryOp.cpp"
+			],
+			[
+				"bui",
+				"buildref.cpp"
+			],
+			[
+				"sm",
+				"SymbolTableHash.hpp"
+			],
+			[
+				"e",
+				"term.cpp"
+			],
+			[
+				"let",
+				"letStatement.cpp"
+			],
+			[
+				"tel",
+				"parameterList.cpp"
+			],
+			[
+				"te",
+				"term.cpp"
+			],
+			[
+				"es",
+				"expression.cpp"
+			],
+			[
+				"vm",
+				"VMWriter.hpp"
+			],
+			[
+				"op",
+				"op.cpp"
+			],
+			[
+				"exple",
+				"expressionList.cpp"
+			],
+			[
+				"subr",
+				"subroutineCall.cpp"
+			],
+			[
+				"sta",
+				"statements.cpp"
+			],
+			[
+				"va",
+				"varDec.cpp"
+			],
+			[
+				"ty",
+				"type.cpp"
+			],
+			[
+				"v",
+				"varDec.cpp"
+			],
+			[
+				"typ",
+				"type.cpp"
+			],
+			[
+				"cal",
+				"classVarDec.cpp"
+			],
+			[
+				"ret",
+				"returnStatement.cpp"
+			],
+			[
+				"state",
+				"statements.cpp"
+			],
+			[
+				"expre",
+				"expression.cpp"
+			],
+			[
+				"rs",
+				"returnStatement.cpp"
+			],
+			[
+				"dec",
+				"subroutineDec.cpp"
+			],
+			[
+				"su",
+				"subroutineDec.cpp"
+			],
+			[
+				"una",
+				"unaryOp.cpp"
+			],
+			[
+				"test",
+				"test.hpp"
+			],
+			[
+				"fu",
+				"function.cpp"
+			],
+			[
+				"mad",
+				"~/Documents/Universidad/Programacion/nand2tetris/projects/10/MainMAD11.xml"
+			],
+			[
+				"l",
+				"letStatement.cpp"
+			],
+			[
+				"expr",
+				"expression.cpp"
+			],
+			[
+				"t",
+				"type.cpp"
+			],
+			[
+				"xm",
+				"xmlPrint.cpp"
+			],
+			[
+				"main",
+				"main.cpp"
+			],
+			[
+				"c",
+				"Compiler.hpp"
+			],
+			[
+				"tok",
+				"TokenQueue.hpp"
+			],
+			[
+				"ge",
+				"getNextToken.cpp"
+			],
+			[
+				"xml",
+				"xmlPrint.cpp"
+			],
+			[
+				"todo",
+				"ToDo.txt"
+			],
+			[
+				"pa",
+				"parameterList.cpp"
+			],
+			[
+				"classVarDec",
+				"classVarDec.cpp"
+			],
+			[
+				"m",
+				"Makefile"
+			],
+			[
+				"tr",
+				"try.cpp"
+			],
+			[
+				"build",
+				"buildref.cpp"
+			],
+			[
+				"co",
+				"Compiler.hpp"
+			],
+			[
+				"buil",
+				"buildref.cpp"
+			],
+			[
+				"clea",
+				"clean.cpp"
+			],
+			[
+				"lin",
+				"linebreaker.cpp"
+			],
+			[
+				"lt",
+				"lt.cpp"
+			],
+			[
+				"con",
+				"constant.cpp"
+			],
+			[
+				"go",
+				"goto_a.cpp"
+			],
+			[
+				"pus",
+				"push.cpp"
+			],
+			[
+				"an",
+				"anymem.cpp"
+			],
+			[
+				"boo",
+				"bootstrap.cpp"
+			],
+			[
+				"po",
+				"pointer.cpp"
+			],
+			[
+				"mem",
+				"~/Documents/Universidad/Programacion/nand2tetris/projects/07/VMtranslator/memorymapping.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/HOT2K/XMLtoCSV/XMLtoCSV.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"clear"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
