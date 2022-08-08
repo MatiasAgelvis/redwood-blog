@@ -1,10 +1,19 @@
-import { VStack } from '@chakra-ui/react'
+import {
+  Alert,
+  AlertDescription,
+  AlertIcon,
+  AlertTitle,
+  Center,
+  Spinner,
+  Text,
+  VStack,
+} from '@chakra-ui/react'
 
 import Article from 'src/components/Article'
 
 export const QUERY = gql`
   query ArticlesQuery {
-    posts {
+    articles: posts {
       id
       title
       body
@@ -13,19 +22,31 @@ export const QUERY = gql`
   }
 `
 
-export const Loading = () => <div>Loading...</div>
-
-export const Empty = () => <div>Empty</div>
-
-export const Failure = ({ error }) => (
-  <div style={{ color: 'red' }}>Error: {error.message}</div>
+export const Loading = () => (
+  <VStack>
+    <Spinner />
+    <Text>Loading...</Text>
+  </VStack>
 )
 
-export const Success = ({ posts }) => {
+export const Empty = () => (
+  <Alert status="warning">
+    <AlertIcon /> <AlertTitle>Empty! ¯\_( ツ )_/¯</AlertTitle>
+  </Alert>
+)
+
+export const Failure = ({ error }) => (
+  <Alert status="error">
+    <AlertIcon /> <AlertTitle>Oh No!</AlertTitle>
+    <AlertDescription>{error.message}</AlertDescription>
+  </Alert>
+)
+
+export const Success = ({ articles }) => {
   return (
     <VStack gap={4}>
-      {posts.map((article) => (
-        <Article key={article.id} article={article} />
+      {articles.map((article) => (
+        <Article key={article.id} article={article} summary />
       ))}
     </VStack>
   )
