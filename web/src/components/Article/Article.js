@@ -2,7 +2,7 @@ import { Heading, Link, Text, VStack } from '@chakra-ui/react'
 
 import { Link as RwLink, routes } from '@redwoodjs/router'
 
-const Article = ({ article }) => {
+const Article = ({ article, summary }) => {
   return (
     <div>
       <article>
@@ -13,7 +13,7 @@ const Article = ({ article }) => {
             </Link>
           </Heading>
           <Text>Posted at: {article.createdAt}</Text>
-          <Text>{article.body}</Text>
+          <Text {...(summary && { noOfLines: 2 })}>{article.body}</Text>
         </VStack>
       </article>
     </div>
