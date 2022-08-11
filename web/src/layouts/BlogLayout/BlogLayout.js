@@ -1,3 +1,4 @@
+import { MoonIcon, SunIcon } from '@chakra-ui/icons'
 import {
   Box,
   Button,
@@ -5,8 +6,11 @@ import {
   Flex,
   Heading,
   HStack,
+  IconButton,
   Spacer,
   Text,
+  useColorMode,
+  useColorModeValue,
 } from '@chakra-ui/react'
 
 import { useAuth } from '@redwoodjs/auth'
@@ -14,6 +18,7 @@ import { Link, routes } from '@redwoodjs/router'
 
 const BlogLayout = ({ children }) => {
   const { isAuthenticated, currentUser, logOut } = useAuth()
+  const { toggleColorMode } = useColorMode()
   return (
     <>
       <header>
@@ -30,6 +35,10 @@ const BlogLayout = ({ children }) => {
               About
             </Button>
             <Spacer />
+            <IconButton
+              onClick={toggleColorMode}
+              icon={useColorModeValue(<MoonIcon />, <SunIcon />)}
+            />
             {isAuthenticated ? (
               <HStack>
                 <Text>Logged in as {currentUser.email}</Text>
