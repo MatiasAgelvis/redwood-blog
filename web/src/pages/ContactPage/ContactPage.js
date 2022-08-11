@@ -61,29 +61,24 @@ const CREATE_CONTACT = gql`
 const ContactPage = () => {
   const toast = useToast()
   const formMethods = useForm()
-  const [create, { loading, error }] = useMutation(
-    CREATE_CONTACT,
-    {
-      onCompleted: () => {
-        toast({
-          title: 'Thank you for your submission!',
-          status: 'success',
-          isClosable: true,
-        })
-        formMethods.reset()
-      },
+  const [create, { loading, error }] = useMutation(CREATE_CONTACT, {
+    onCompleted: () => {
+      toast({
+        title: 'Thank you for your submission!',
+        status: 'success',
+        isClosable: true,
+      })
+      formMethods.reset()
     },
-    {
-      onError: (error) => {
-        toast({
-          title: 'Submission failed!',
-          description: error,
-          status: 'error',
-          isClosable: true,
-        })
-      },
-    }
-  )
+    onError: (error) => {
+      toast({
+        title: 'Submission failed!',
+        description: error,
+        status: 'error',
+        isClosable: true,
+      })
+    },
+  })
 
   const onSubmit = (data) => {
     create({ variables: { input: data } })
