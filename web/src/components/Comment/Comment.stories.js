@@ -4,6 +4,14 @@ export const generated = (args) => {
   return <Comment {...args} />
 }
 
+export const moderator = (args) => {
+  mockCurrentUser({
+    roles: 'moderator',
+  })
+
+  return <Comment {...args} />
+}
+
 export default {
   title: 'Components/Comment',
   args: {

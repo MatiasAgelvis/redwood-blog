@@ -19,6 +19,7 @@ import { Link, routes } from '@redwoodjs/router'
 const BlogLayout = ({ children }) => {
   const { isAuthenticated, currentUser, logOut } = useAuth()
   const { toggleColorMode } = useColorMode()
+  console.log(isAuthenticated, currentUser)
   return (
     <>
       <header>
@@ -41,7 +42,7 @@ const BlogLayout = ({ children }) => {
             />
             {isAuthenticated ? (
               <HStack>
-                <Text>Logged in as {currentUser.email}</Text>
+                {/*<Text>Logged in as {currentUser.email}</Text>*/}
                 <Button onClick={logOut}>Logout</Button>
               </HStack>
             ) : (

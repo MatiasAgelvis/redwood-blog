@@ -6,6 +6,11 @@ export const notLogged = (args) => {
 }
 
 export const logged = (args) => {
+  mockCurrentUser({
+    id: 42,
+    name: 'Test von Foobar Jr.',
+    email: 'TestvonFoobarJr@mail.com',
+  })
   mockGraphQLMutation('CreateCommentMutation', (variables, { ctx }) => {
     const id = Math.floor(Math.random() * 1000)
     ctx.delay(1000)
@@ -19,20 +24,7 @@ export const logged = (args) => {
       },
     }
   })
-  return (
-    <AuthContext.Provider
-      value={{
-        isAuthenticated: true,
-        currentUser: {
-          id: 42,
-          name: 'Test von Foobar Jr.',
-          email: 'TestvonFoobarJr@mail.com',
-        },
-      }}
-    >
-      <CommentForm {...args} />
-    </AuthContext.Provider>
-  )
+  return <CommentForm {...args} />
 }
 
 export default { title: 'Components/CommentForm' }
